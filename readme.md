@@ -1,0 +1,1 @@
+Example solutions for typical coding problems visible in various interviews. In few cases contains code from some free publicly available pages (it should be everywhere marked and of course in this case licensing should NOT be broken)
